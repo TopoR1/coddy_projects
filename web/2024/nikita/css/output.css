@@ -861,3 +861,9 @@ footer > .block > .pages > .page > a {
   display: block;
   width: 100%;
 }
+
+.header > button {
+    margin: 10px;
+    padding: 6px 12px;
+    margin-left: auto;
+}
