@@ -5,6 +5,10 @@ body {
   background: radial-gradient(circle, rgba(255,248,0,1) 0%, rgba(255,132,0,1) 50%, rgba(255,162,0,1) 50%, rgba(235,94,0,1) 51%, rgba(170,68,0,1) 61%, rgba(6,249,75,1) 83%, rgba(25,201,247,1) 90%, rgba(255,0,176,1) 100%);
 }
 
+.header > a {
+  margin: 0 10px;
+}
+
 #hero {
   display: flex;
 }
